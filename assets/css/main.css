@@ -1,14 +1,14 @@
 .bandera{
   display: inline-block;
   background: #FFFF00;
-  height: 25px;
-  width: 150px;
+  height: 60px;
+  width: 160px;
   margin-right: 10px;
 }
 .bandera2 {
   display: inline-block;
   background: #FA50B0;
-  height: 25px;
-  width: 30px;
+  height: 60px;
+  width: 160px;
   margin-right: 10px;
 }
